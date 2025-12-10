@@ -22,7 +22,8 @@ PyMetaAudio é um editor completo e robusto de metadados para arquivos de áudio
 
 ## 🖼️ Capturas de Tela
 
-![Interface Principal](screenshots/interface.png)
+![Interface Principal](https://github.com/olverclock/pymetaaudio/blob/main/PyMetaAudio.png)>
+
 *Interface limpa e intuitiva para edição de metadados*
 
 ---
