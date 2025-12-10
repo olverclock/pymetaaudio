@@ -141,8 +141,6 @@ mutagen>=1.47.0
 customtkinter>=5.2.0
 pillow>=10.0.0
 
-text
-
 ---
 
 ## 🐛 Problemas Conhecidos e Soluções
