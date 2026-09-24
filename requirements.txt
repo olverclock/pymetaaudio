@@ -1,0 +1,4 @@
+mutagen>=1.48.1,<2
+customtkinter>=6.0.0,<7
+Pillow>=10.4.0,<12
+yt-dlp[default,deno]>=2026.8.19
